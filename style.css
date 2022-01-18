@@ -1,0 +1,55 @@
+/* Odins Recipoe Style Sheet for the Odin projet */
+/* By:Allen Smith 01-17-2022 */
+/* I need to remember to add comments to all my prohects */
+/* even when it isnt specified. For my own sanity */
+body {
+  background: SteelBlue;
+  font-family: 'Verdana', sans-serif;
+  color: Gainsboro;
+}
+
+h1,
+h2 {
+  color: white;
+  font-family: 'Tahoma', sans-serif;
+}
+
+h1 {
+  margin: 20px;
+}
+
+h2 {
+  margin: 10px 20px;
+}
+
+img {
+  width: 400px;
+  margin-left: 20px;
+}
+
+p {
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.link_list {
+  font-size: 28px;
+}
+
+.link_list_item {
+  margin-top: 10px;
+}
+
+.list_link {
+  color: purple;
+}
+
+.ingredients_list,
+.steps_list {
+  margin: 20px;
+}
+
+.ingredients_list_item,
+.steps_list_item {
+  margin-top: 10px;
+}
